@@ -21,7 +21,7 @@ Warning! Tool's song conversion process can be very resource demanding, I advise
 * If you encounter an issue with .pbo file not being created you will have to download the "Dev" realase of this tool and package the .pbo yourself using for example **[PBO Manager](http://www.armaholic.com/page.php?id=16369)**
 * After Creating Pbo, script will show you information about compression being 0% in red text, don't worry about that
 * Make sure that filenames of songs don't contain special characters. Underscores, spaces, numbers and letters are ok, though it's best to keep them simple like: MySong1.mp3
-* Sometimes length of some songs cannot be found and results in inability to play them inside the game
+* Sometimes length of some songs cannot be determined while creating extension and results in inability to play these songs inside the game
 
 ## Credits
 **[FFmpeg](https://www.ffmpeg.org/)** - used to convert songs to .ogg format and to get informations about them
