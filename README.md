@@ -1,5 +1,5 @@
 # Pocket-Music-Player-Extension-Creator
-Tool created to let users of acoustic guitar mod easily add songs
+Tool created to let users of Pocket Music Player mod easily add songs
 
 
 
