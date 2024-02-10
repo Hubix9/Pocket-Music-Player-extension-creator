@@ -1,3 +1,6 @@
+# New version of the tool! Generates extensions for both Pocket Music Player and Acoustic Guitar mods!
+**[Music Extension Creator](https://github.com/Hubix9/Acoustic-Guitar-Extension-Creator)**
+
 # Pocket-Music-Player-Extension-Creator
 Tool created to let users of Pocket Music Player mod easily add songs
 
